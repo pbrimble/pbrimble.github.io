@@ -9,6 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+Latest version: <a href="https://pbrimble.github.io/files/cv.pdf">here</a>
+
+<!-- A copy of my most recent CV can also be found <a href="https://pbrimble.github.io/files/cv.pdf" target="_blank"><u>here</u></a>. -->
+
+<object data="https://pbrimble.github.io/files/cv.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://pbrimble.github.io/files/cv.pdf">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="https://pbrimble.github.io/files/cv.pdf" target="_blank"><u>here</u></a>.
+        </embed>
+</object>
+
+<p> </p>
+
+<!--
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -57,3 +70,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+-->
