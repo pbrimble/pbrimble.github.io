@@ -11,39 +11,44 @@ redirect_from:
 
 Here is a brief overview of my research interests. These range from my onging work, research projects during my time at the Government of Rwanda, as well as written work for my degrees.
 
-
 ---
-# Ongoing Research
+## Ongoing Research
 
-## Evaluating the
+### Evaluating the Impact of National Solar Home System Subsidies in Togo
+With Deivy Houeix, Axel Eizmendi-Larrinaga and Toni Oki
 
-## VIIRS Nighttime Lights
+### VIIRS Nighttime Lights for Economic Applications
+With Adam Storeygard, Axel Ezimendi-Larrinaga and Kazuki Motohashi
 
+### Evaluating the Impact of Zoning Laws in Developing Country Cities using Spatial Data
+With Matthew Sharp
 
-# Completed Research
+### Valuing Property and Buildings in Kigali and Secondary Cities for an Operational CAMA
+With Patrick McSharry, Kaspar Kundert, Felix Bachofer and Andreas Braun
 
-## Property Valuation in Kigali
+## Completed Research
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### Using Machine Learning and Remote Sensing to Value Property in Rwanda
+With Patrick McSharry, Felix Bachofer, Andreas Braun and Jonathon Bower
 
-See publications page.
+**Abstract**
+Property valuation models can achieve mass valuation transparently and cheaply. This paper
+develops a number of property valuation models for Kigali, Rwanda, and tests them on a unique dataset combining remote sensing data and infrastructure and amenities data for properties in Kigali, with sales transaction data for 2015. We use a machine learning approach, Minimum Redundancy Maximum Relevance, to select from 511 features those that minimise ten-fold cross validated Mean Absolute Error. Cross validated diagnostics are used to eliminate overfitting given that our goal is to generate a model that can be used to extrapolate value estimates out of sample.'
 
-## Rwanda's Agricultural Productivity Gap
+### Rwanda's Agricultural Productivity Gap
 I wrote a short piece on Rwanda's agricultural productivity gap using data on national accounts and nationally representative household surveys.
 
-**Overview:** What I found interesting was that from the 1990s until the late 2010s, there are three distinct three distinct stages describing the trends in Rwanda’s (unadjusted) agricultural productivity gap. Firstly, during the pre-transition stage from 1991 to 2002, the gap is incredibly large and volatile with an average of 10.15. Secondly,the transition stage from 2002 to 2005 is marked by a steep and permanent decline in the gap from 11.61 to 5.01 over this short time period. Finally, the post-transition stage from 2005 onwards sees the gap stabilise significantly, averaging a much more respectable 6.01 during this decade. Furthermore, a sizeable portion of this gap can be explained by differences in sectoral human capital.
+**Overview:** From the 1990s until the late 2010s, there are three distinct three distinct stages describing the trends in Rwanda’s (unadjusted) agricultural productivity gap. Firstly, during the pre-transition stage from 1991 to 2002, the gap is incredibly large and volatile with an average of 10.15. Secondly,the transition stage from 2002 to 2005 is marked by a steep and permanent decline in the gap from 11.61 to 5.01 over this short time period. Finally, the post-transition stage from 2005 onwards sees the gap stabilise significantly, averaging a much more respectable 6.01 during this decade. Furthermore, a sizeable portion of this gap can be explained by differences in sectoral human capital.
 
 Download [here](https://github.com/pbrimble/pbrimble.github.io/raw/master/files/rwanda_apg_2018_02.pdf).
 
-## The Macroeconomic Impact of Dollarisation Adjustments in Cambodia: a Bayesian DSGE Approach
+### The Macroeconomic Impact of Dollarisation Adjustments in Cambodia: a Bayesian DSGE Approach
 
 For my undergraduate dissertation, I explorered the impact of Cambodia's de-dollarisation policy on macroeconomic volatility.
 
 **Abstract:** This paper develops and estimates a quantitative dynamic stochastic general equilibrium model with partial dollarisation of the Cambodian economy, to evaluate the volatility implications of de-dollarisation. We find that as the level of dollarisation falls, macroeconomic volatility exhibits a U-shape effect. For the initial stage of de-dollarisation, the economy’s improved ability to accommodate asymmetric foreign shocks drives down volatility. However, for the final stages of de-dollarisation, the vulnerability from foreign debt in dollars leads to a rise in volatility. This implies that some degree of dollarisation can achieve a favourable balance between these two opposing effects, minimising macroeconomic volatility.
 
-## Production Networks and International Trade
+### Production Networks and International Trade
 
 For my master's thesis, I explored global production networks and international trade.
 
