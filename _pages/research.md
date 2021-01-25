@@ -9,22 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Here is a brief overview of my research interests. These range from written work for my degrees, research projects during my time at the Government of Rwanda, as well as current work.
+Here is a brief overview of my research interests. These range from my onging work, research projects during my time at the Government of Rwanda, as well as written work for my degrees.
 
 
 ---
 # Ongoing Research
 
+## Evaluating the
+
 ## VIIRS Nighttime Lights
 
-
----
 
 # Completed Research
 
 ## Property Valuation in Kigali
 
-{% include base_path %}
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 See publications page.
 
