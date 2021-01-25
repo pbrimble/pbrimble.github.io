@@ -14,21 +14,21 @@ Here is a brief overview of my research interests. These range from my onging wo
 ---
 ## Work in Progress
 
-**Evaluating the Impact of National Solar Home System Subsidies in Togo**  
+**Evaluating the Impact of National Solar Home System Subsidies in Togo** \
 With Deivy Houeix, Axel Eizmendi-Larrinaga and Toni Oki
 
-**VIIRS Nighttime Lights for Economic Applications**  
+**VIIRS Nighttime Lights for Economic Applications** \
 With Adam Storeygard, Axel Ezimendi-Larrinaga and Kazuki Motohashi
 
-**Evaluating the Impact of Zoning Laws in Developing Country Cities using Spatial Data**  
+**Evaluating the Impact of Zoning Laws in Developing Country Cities using Spatial Data** \
 With Matthew Sharp
 
-**Valuing Property and Buildings in Kigali and Secondary Cities for an Operational CAMA**  
+**Valuing Property and Buildings in Kigali and Secondary Cities for an Operational CAMA** \
 With Patrick McSharry, Kaspar Kundert, Felix Bachofer and Andreas Braun
 
 ## Completed Research
 
-**Using Machine Learning and Remote Sensing to Value Property in Rwanda**  
+**Using Machine Learning and Remote Sensing to Value Property in Rwanda** \
 With Patrick McSharry, Felix Bachofer, Andreas Braun and Jonathon Bower  
 
 *Property valuation models can achieve mass valuation transparently and cheaply. This paper
@@ -41,12 +41,12 @@ develops a number of property valuation models for Kigali, Rwanda, and tests the
 Download [here](https://github.com/pbrimble/pbrimble.github.io/raw/master/files/rwanda_apg_2018_02.pdf).
 
 
-**Production Networks and International Trade**   
+**Production Networks and International Trade**  \
 MPhil Thesis
 
 *This paper examines how increases in international trade and global value chain participation impact world economic volatility. I develop and apply a theoretical model of intermediate input trade to data on production networks in order to assess how global network structures affect aggregate volatility. Due to network interconnections between country-sectors, idiosyncratic shocks to specific country-sectors transmit downstream towards their direct and indirect customers, leading to a potential synchronised expansion of economic activity. This mechanism generates sizeable aggregate fluctuations when the importance of country-sectors is significantly asymmetric, leading to the existence of dominant country-sectors which effectively propagate shocks originating elsewhere in the network to the entire economy. By mapping global production networks to data from world input-output tables, I obtain measures for country-sector importance which capture the centrality of each country-sector in the network. The distribution of these centrality measures then provides information about the structure of the global production network and the implications for aggregate volatility. The key empirical result shows that the network structure of global production is highly interconnected with production fragmented across the world economy. This finding implies that idiosyncratic shocks can propagate through the global production network, leading to sizeable aggregate fluctuations. Understanding the underlying structure of global production networks can help policymakers accommodate for international disruptions to global value chains.*
 
-**The Macroeconomic Impact of Dollarisation Adjustments in Cambodia: a Bayesian DSGE Approach**  
+**The Macroeconomic Impact of Dollarisation Adjustments in Cambodia: a Bayesian DSGE Approach** \
 BA Dissertation
 
 *This paper develops and estimates a quantitative dynamic stochastic general equilibrium model with partial dollarisation of the Cambodian economy, to evaluate the volatility implications of de-dollarisation. We find that as the level of dollarisation falls, macroeconomic volatility exhibits a U-shape effect. For the initial stage of de-dollarisation, the economy’s improved ability to accommodate asymmetric foreign shocks drives down volatility. However, for the final stages of de-dollarisation, the vulnerability from foreign debt in dollars leads to a rise in volatility. This implies that some degree of dollarisation can achieve a favourable balance between these two opposing effects, minimising macroeconomic volatility.*
