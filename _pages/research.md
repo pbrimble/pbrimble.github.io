@@ -33,7 +33,8 @@ With Patrick McSharry, Felix Bachofer, Andreas Braun and Jonathon Bower
 
 *Property valuation models can achieve mass valuation transparently and cheaply. This paper
 develops a number of property valuation models for Kigali, Rwanda, and tests them on a unique dataset combining remote sensing data and infrastructure and amenities data for properties in Kigali, with sales transaction data for 2015. We use a machine learning approach, Minimum Redundancy Maximum Relevance, to select from 511 features those that minimise ten-fold cross validated Mean Absolute Error. Cross validated diagnostics are used to eliminate overfitting given that our goal is to generate a model that can be used to extrapolate value estimates out of sample.*
-<!--
+
+<!---
 
   \
 **Rwanda's Agricultural Productivity Gap**
