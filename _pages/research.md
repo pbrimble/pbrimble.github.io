@@ -14,14 +14,14 @@ Here is a brief overview of my research interests. These range from my onging wo
 ---
 ## Work in Progress
 
-**Evaluating the Impact of National Solar Home System Subsidies in Togo** \
+**Zoning and Land Value Capture: Evidence from Rwanda** \
+With Guy Michaels, Matthew Sharp and Tanner Regan
+
+**Transaction Costs and Electricity Access in Rural Areas: Evidence from Prepaid Solar Metering Subsidy in Togo** \
 With Deivy Houeix, Axel Eizmendi-Larrinaga and Toni Oki
 
-**VIIRS Nighttime Lights for Economic Applications** \
-With Adam Storeygard, Axel Ezimendi-Larrinaga and Kazuki Motohashi
-
-**Evaluating the Impact of Zoning Laws in Developing Country Cities using Spatial Data** \
-With Matthew Sharp
+**VIIRs and the Future of Night Lights Data in Economics** \
+With Adam Storeygard, Axel Eizmendi-Larrinaga and Kazuki Motohashi
 
 **Valuing Property and Buildings in Kigali and Secondary Cities for an Operational CAMA** \
 With Patrick McSharry, Kaspar Kundert, Felix Bachofer and Andreas Braun
@@ -33,14 +33,14 @@ With Patrick McSharry, Felix Bachofer, Andreas Braun and Jonathon Bower
 
 *Property valuation models can achieve mass valuation transparently and cheaply. This paper
 develops a number of property valuation models for Kigali, Rwanda, and tests them on a unique dataset combining remote sensing data and infrastructure and amenities data for properties in Kigali, with sales transaction data for 2015. We use a machine learning approach, Minimum Redundancy Maximum Relevance, to select from 511 features those that minimise ten-fold cross validated Mean Absolute Error. Cross validated diagnostics are used to eliminate overfitting given that our goal is to generate a model that can be used to extrapolate value estimates out of sample.*
-
+<!--
   \
 **Rwanda's Agricultural Productivity Gap**
 
 *From the 1990s until the late 2010s, there are three distinct three distinct stages describing the trends in Rwanda’s (unadjusted) agricultural productivity gap. Firstly, during the pre-transition stage from 1991 to 2002, the gap is incredibly large and volatile with an average of 10.15. Secondly,the transition stage from 2002 to 2005 is marked by a steep and permanent decline in the gap from 11.61 to 5.01 over this short time period. Finally, the post-transition stage from 2005 onwards sees the gap stabilise significantly, averaging a much more respectable 6.01 during this decade. Furthermore, a sizeable portion of this gap can be explained by differences in sectoral human capital.*
 
 Download [here](https://github.com/pbrimble/pbrimble.github.io/raw/master/files/rwanda_apg_2018_02.pdf).
-
+-->
   \
 **Production Networks and International Trade**  \
 MPhil Thesis
