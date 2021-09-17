@@ -20,19 +20,19 @@ with [Guy Michaels](https://personal.lse.ac.uk/michaels), [Matthew Sharp](https:
 *Abstract:* Rapid urbanisation in Africa and other developing regions increases demand for urban services, which local governments often struggle to provide. Land value capture and taxation through zoning presents an under-exploited opportunity to mitigate this problem. Rwanda, with its fast-growing cities, first adopted a comprehensive land use zoning law in 2013. Focusing on the urban fringe in Rwandan cities, we compare the value of (previously unbuilt) land zoned for residential use to nearby land zoned for agricultural use, allowing us to assess the potential for revenue generation from zoning.
 
 
-**Transaction Costs and Electricity Access in Rural Areas: Evidence from Prepaid Solar Metering Subsidy in Togo** \
-with Deivy Houeix, Axel Eizmendi-Larrinaga and Toni Oki
+**Transaction Costs, Liquidity Constraints, and Barriers to Electricity Access: Evidence from Prepaid Solar Metering Subsidy in Togo** \
+with [Deivy Houeix](https://houeix.github.io), Axel Eizmendi-Larrinaga and [Toni Oki](https://economics.harvard.edu/people/oluwatoni-oki)
 
 **VIIRs and the Future of Night Lights Data in Economics** \
-with Adam Storeygard, Axel Eizmendi-Larrinaga and Kazuki Motohashi
+with [Adam Storeygard](https://sites.google.com/site/adamstoreygard), Axel Eizmendi-Larrinaga and [Kazuki Motohashi](https://kazukimotohashi.github.io)
 
 **Valuing Property and Buildings in Kigali and Secondary Cities for an Operational CAMA** \
-with Patrick McSharry, Kaspar Kundert, Felix Bachofer and Andreas Braun
+with [Patrick McSharry](http://www.mcsharry.net), Kaspar Kundert, Felix Bachofer and Andreas Braun
 
 ## Completed Research
 
 **Using Machine Learning and Remote Sensing to Value Property in Rwanda** \
-with Patrick McSharry, Felix Bachofer, Andreas Braun and Jonathon Bower  
+with [Patrick McSharry](http://www.mcsharry.net), Felix Bachofer, Andreas Braun and Jonathon Bower  
 
 *Abstract:* Property valuation models can achieve mass valuation transparently and cheaply. This paper
 develops a number of property valuation models for Kigali, Rwanda, and tests them on a unique dataset combining remote sensing data and infrastructure and amenities data for properties in Kigali, with sales transaction data for 2015. We use a machine learning approach, Minimum Redundancy Maximum Relevance, to select from 511 features those that minimise ten-fold cross validated Mean Absolute Error. Cross validated diagnostics are used to eliminate overfitting given that our goal is to generate a model that can be used to extrapolate value estimates out of sample.
