@@ -25,7 +25,7 @@ with [Guy Michaels](https://personal.lse.ac.uk/michaels), [Matthew Sharp](https:
 **Transaction Costs, Liquidity Constraints, and Barriers to Electricity Access: Evidence from Prepaid Solar Metering Subsidy in Togo** \
 with [Deivy Houeix](https://houeix.github.io), Axel Eizmendi-Larrinaga and [Toni Oki](https://economics.harvard.edu/people/oluwatoni-oki)
 
-**VIIRs and the Future of Night Lights Data in Economics** \
+**VIIRS and the Future of Night Lights Data in Economics** \
 with [Adam Storeygard](https://sites.google.com/site/adamstoreygard), Axel Eizmendi-Larrinaga and [Kazuki Motohashi](https://kazukimotohashi.github.io)
 
 **Valuing Property and Buildings in Kigali and Secondary Cities for an Operational CAMA** \
