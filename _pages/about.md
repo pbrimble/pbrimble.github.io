@@ -34,7 +34,7 @@ with [Patrick McSharry](http://www.mcsharry.net), Kaspar Kundert, Felix Bachofer
 ---
 # Completed Research
 
-**Using Machine Learning and Remote Sensing to Value Property in Rwanda** \
+**Using Machine Learning and Remote Sensing to Value Property in Rwanda**, *International Growth Centre Working Paper \
 with [Patrick McSharry](http://www.mcsharry.net), Felix Bachofer, Andreas Braun and Jonathon Bower  
 
 *Abstract:* Property valuation models can achieve mass valuation transparently and cheaply. This paper
