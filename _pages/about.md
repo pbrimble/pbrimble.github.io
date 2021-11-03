@@ -14,7 +14,7 @@ I am currently a research assistant in development economics at the the <a href=
 My CV can be found <a href="https://pbrimble.github.io/files/cv.pdf">here</a>.
 
 ---
-## Research in Progress
+# Research in Progress
 
 **Zoning Laws and Land Value Capture: Evidence from Rwanda** \
 with [Guy Michaels](https://personal.lse.ac.uk/michaels), [Matthew Sharp](https://sites.google.com/view/matthewsharp) and [Tanner Regan](https://sites.google.com/site/tannerregan)
@@ -31,7 +31,8 @@ with [Adam Storeygard](https://sites.google.com/site/adamstoreygard), Axel Eizme
 **Valuing Property and Buildings in Kigali and Secondary Cities for an Operational CAMA** \
 with [Patrick McSharry](http://www.mcsharry.net), Kaspar Kundert, Felix Bachofer and Andreas Braun
 
-## Completed Research
+---
+# Completed Research
 
 **Using Machine Learning and Remote Sensing to Value Property in Rwanda** \
 with [Patrick McSharry](http://www.mcsharry.net), Felix Bachofer, Andreas Braun and Jonathon Bower  
