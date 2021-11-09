@@ -34,11 +34,12 @@ with [Patrick McSharry](http://www.mcsharry.net), Kaspar Kundert, Felix Bachofer
 ---
 # Completed Research
 
-**Using Machine Learning and Remote Sensing to Value Property in Rwanda**, *International Growth Centre Working Paper \
+[**Using Machine Learning and Remote Sensing to Value Property in Rwanda**](https://www.theigc.org/wp-content/uploads/2020/02/Brimble-et-al-2020-Working-Paper.pdf), *International Growth Centre Working Paper* \
 with [Patrick McSharry](http://www.mcsharry.net), Felix Bachofer, Andreas Braun and Jonathon Bower  
 
 *Abstract:* Property valuation models can achieve mass valuation transparently and cheaply. This paper
 develops a number of property valuation models for Kigali, Rwanda, and tests them on a unique dataset combining remote sensing data and infrastructure and amenities data for properties in Kigali, with sales transaction data for 2015. We use a machine learning approach, Minimum Redundancy Maximum Relevance, to select from 511 features those that minimise ten-fold cross validated Mean Absolute Error. Cross validated diagnostics are used to eliminate overfitting given that our goal is to generate a model that can be used to extrapolate value estimates out of sample.
+
 
 <!---
 
