@@ -22,7 +22,7 @@ with [Guy Michaels](https://personal.lse.ac.uk/michaels), [Matthew Sharp](https:
 *Abstract:* Rapid urbanisation in Africa and other developing regions increases demand for urban services, which local governments often struggle to provide. Land value capture and taxation through zoning presents an under-exploited opportunity to mitigate this problem. Rwanda, with its fast-growing cities, first adopted a comprehensive land use zoning law in 2013. Focusing on the urban fringe in Rwandan cities, we compare the value of (previously unbuilt) land zoned for residential use to nearby land zoned for agricultural use, allowing us to assess the potential for revenue generation from zoning.
 
 
-**Transaction Costs, Liquidity Constraints, and Barriers to Electricity Access: Evidence from Prepaid Solar Metering Subsidy in Togo** \
+**Transaction Costs and Electricity Access Among the Rural Poor: Evidence from Togo** \
 with [Toni Oki](https://economics.harvard.edu/people/oluwatoni-oki), [Deivy Houeix](https://houeix.github.io) and Axel Eizmendi-Larrinaga
 
 **VIIRS and the Future of Night Lights Data in Economics** \
