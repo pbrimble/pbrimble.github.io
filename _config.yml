@@ -88,12 +88,12 @@ analytics:
 author:
   name             : "Paul Brimble"
   avatar           : "profile.png"
-  bio              : "Research Assistant in Development Economics"
+  bio              : "PhD Student in Economics"
   location         : "Oxford, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "paul.brimble@bsg.ox.ac.uk"
+  email            : "pbrimble@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
