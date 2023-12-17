@@ -18,6 +18,9 @@ My CV can be found <a href="https://pbrimble.github.io/files/cv.pdf">here</a>.
 ---
 # Research in Progress
 
+**Media, Politics and Conflict: Evidence from Television in India** ([Working Paper](https://github.com/pbrimble/pbrimble.github.io/raw/master/files/brimble yang 2023 media politics conflict.pdf)) \
+with [Dean Yang](https://sites.lsa.umich.edu/deanyang)
+
 **Zoning Laws and Land Value Capture: Evidence from Rwanda** \
 with [Guy Michaels](https://personal.lse.ac.uk/michaels), [Matthew Sharp](https://sites.google.com/view/matthewsharp) and [Tanner Regan](https://sites.google.com/site/tannerregan)
 
