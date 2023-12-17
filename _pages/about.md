@@ -18,7 +18,7 @@ My CV can be found <a href="https://pbrimble.github.io/files/cv.pdf">here</a>.
 ---
 # Research in Progress
 
-**Media, Politics and Conflict: Evidence from Television in India** ([Working Paper](https://github.com/pbrimble/pbrimble.github.io/raw/master/files/brimble yang 2023 media politics conflict.pdf)) \
+**Media, Politics and Conflict: Evidence from Television in India** ([Working Paper](https://github.com/pbrimble/pbrimble.github.io/raw/main/files/brimble yang 2023 media politics conflict.pdf)) \
 with [Dean Yang](https://sites.lsa.umich.edu/deanyang)
 
 **Zoning Laws and Land Value Capture: Evidence from Rwanda** \
@@ -53,7 +53,7 @@ develops a number of property valuation models for Kigali, Rwanda, and tests the
 
 *From the 1990s until the late 2010s, there are three distinct three distinct stages describing the trends in Rwanda’s (unadjusted) agricultural productivity gap. Firstly, during the pre-transition stage from 1991 to 2002, the gap is incredibly large and volatile with an average of 10.15. Secondly,the transition stage from 2002 to 2005 is marked by a steep and permanent decline in the gap from 11.61 to 5.01 over this short time period. Finally, the post-transition stage from 2005 onwards sees the gap stabilise significantly, averaging a much more respectable 6.01 during this decade. Furthermore, a sizeable portion of this gap can be explained by differences in sectoral human capital.*
 
-Download [here](https://github.com/pbrimble/pbrimble.github.io/raw/master/files/rwanda_apg_2018_02.pdf).
+Download [here](https://github.com/pbrimble/pbrimble.github.io/raw/main/files/rwanda_apg_2018_02.pdf).
 
 -->
   \
