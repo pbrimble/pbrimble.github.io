@@ -18,17 +18,22 @@ My CV can be found <a href="https://pbrimble.github.io/files/cv.pdf">here</a>.
 ---
 # Research in Progress
 
-**Media, Politics and Conflict: Evidence from Television in India** ([Working Paper](https://github.com/pbrimble/pbrimble.github.io/raw/main/files/brimble yang 2023 media politics conflict.pdf)) \
-with [Dean Yang](https://sites.lsa.umich.edu/deanyang)
+**The Ramayan Effect: Mass Media, Identity, and the Rise of Hindu Nationalism in India** \
+with Resuf Ahmed, Akhila Kovvuri, [Alessandro Saia](https://sites.google.com/site/asaia9585/alessandro-saia) and [Dean Yang](https://sites.lsa.umich.edu/deanyang)
+
+**Can Cash Transfers Facilitate Occupational Upgrading in Frictional Markets?** \
+with [Rob Garlick](https://www.robgarlick.com) and [Kate Orkin](https://sites.google.com/site/kateorkin/home)
+
+**Financial Inclusion and Rural Electrification: Evidence from Togo** \
+with [Toni Oki](https://economics.harvard.edu/people/oluwatoni-oki), [Deivy Houeix](https://houeix.github.io) and Axel Eizmendi-Larrinaga
+
+**Lighting Aspirations in Schools: The Impact of Lighting and Role Models on Educational Outcomes** \
+with Axel Eizmendi-Larrinaga
 
 **Zoning Laws and Land Value Capture: Evidence from Rwanda** \
 with [Guy Michaels](https://personal.lse.ac.uk/michaels), [Matthew Sharp](https://sites.google.com/view/matthewsharp) and [Tanner Regan](https://sites.google.com/site/tannerregan)
 
 *Abstract:* Rapid urbanisation in Africa and other developing regions increases demand for urban services, which local governments often struggle to provide. Land value capture and taxation through zoning presents an under-exploited opportunity to mitigate this problem. Rwanda, with its fast-growing cities, first adopted a comprehensive land use zoning law in 2013. Focusing on the urban fringe in Rwandan cities, we compare the value of (previously unbuilt) land zoned for residential use to nearby land zoned for agricultural use, allowing us to assess the potential for revenue generation from zoning.
-
-
-**Transaction Costs and Electricity Access Among the Rural Poor: Evidence from Togo** \
-with [Toni Oki](https://economics.harvard.edu/people/oluwatoni-oki), [Deivy Houeix](https://houeix.github.io) and Axel Eizmendi-Larrinaga
 
 **VIIRS and the Future of Night Lights Data in Economics** \
 with [Adam Storeygard](https://sites.google.com/site/adamstoreygard), Axel Eizmendi-Larrinaga and [Kazuki Motohashi](https://kazukimotohashi.github.io)
@@ -36,6 +41,7 @@ with [Adam Storeygard](https://sites.google.com/site/adamstoreygard), Axel Eizme
 **Valuing Property and Buildings in Kigali and Secondary Cities for an Operational CAMA** \
 with [Patrick McSharry](http://www.mcsharry.net), Kaspar Kundert, Felix Bachofer and Andreas Braun
 
+<!---
 ---
 # Completed Research
 
@@ -46,7 +52,7 @@ with [Patrick McSharry](http://www.mcsharry.net), Felix Bachofer, Andreas Braun 
 develops a number of property valuation models for Kigali, Rwanda, and tests them on a unique dataset combining remote sensing data and infrastructure and amenities data for properties in Kigali, with sales transaction data for 2015. We use a machine learning approach, Minimum Redundancy Maximum Relevance, to select from 511 features those that minimise ten-fold cross validated Mean Absolute Error. Cross validated diagnostics are used to eliminate overfitting given that our goal is to generate a model that can be used to extrapolate value estimates out of sample.
 
 
-<!---
+
 
   \
 **Rwanda's Agricultural Productivity Gap**
@@ -55,7 +61,7 @@ develops a number of property valuation models for Kigali, Rwanda, and tests the
 
 Download [here](https://github.com/pbrimble/pbrimble.github.io/raw/main/files/rwanda_apg_2018_02.pdf).
 
--->
+
   \
 **Production Networks and International Trade**  \
 MPhil Thesis
@@ -67,3 +73,5 @@ MPhil Thesis
 BA Dissertation
 
 *Abstract:* This paper develops and estimates a quantitative dynamic stochastic general equilibrium model with partial dollarisation of the Cambodian economy, to evaluate the volatility implications of de-dollarisation. We find that as the level of dollarisation falls, macroeconomic volatility exhibits a U-shape effect. For the initial stage of de-dollarisation, the economy’s improved ability to accommodate asymmetric foreign shocks drives down volatility. However, for the final stages of de-dollarisation, the vulnerability from foreign debt in dollars leads to a rise in volatility. This implies that some degree of dollarisation can achieve a favourable balance between these two opposing effects, minimising macroeconomic volatility.
+
+-->
