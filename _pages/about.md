@@ -17,7 +17,7 @@ I was previously a research assistant in development economics at the the <a hre
 # Research in Progress
 
 **The Ramayan Effect: Mass Media, Identity, and the Rise of Hindu Nationalism in India** \
-with Resuf Ahmed, Akhila Kovvuri, [Alessandro Saia](https://sites.google.com/site/asaia9585/alessandro-saia) and [Dean Yang](https://sites.lsa.umich.edu/deanyang)
+with [Resuf Ahmed](https://resuf.github.io), Akhila Kovvuri, [Alessandro Saia](https://sites.google.com/site/asaia9585/alessandro-saia) and [Dean Yang](https://sites.lsa.umich.edu/deanyang)
 
 **Can Cash Transfers Facilitate Occupational Upgrading in Frictional Markets?** \
 with [Rob Garlick](https://www.robgarlick.com) and [Kate Orkin](https://sites.google.com/site/kateorkin/home)
