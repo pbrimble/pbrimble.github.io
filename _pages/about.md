@@ -17,13 +17,13 @@ I was previously a research assistant in development economics at the the <a hre
 # Research in Progress
 
 **The Ramayan Effect: Mass Media, Identity, and the Rise of Hindu Nationalism in India** \
-with [Resuf Ahmed](https://resuf.github.io), Akhila Kovvuri, [Alessandro Saia](https://sites.google.com/site/asaia9585/alessandro-saia) and [Dean Yang](https://sites.lsa.umich.edu/deanyang)
+with [Resuf Ahmed](https://resuf.github.io), [Akhila Kovvuri](https://kingcenter.stanford.edu/akhila-kovvuri), [Alessandro Saia](https://sites.google.com/site/asaia9585/alessandro-saia) and [Dean Yang](https://sites.lsa.umich.edu/deanyang)
 
 **Can Cash Transfers Facilitate Occupational Upgrading in Frictional Markets?** \
 with [Rob Garlick](https://www.robgarlick.com) and [Kate Orkin](https://sites.google.com/site/kateorkin/home)
 
 **[Financial Inclusion and Rural Electrification: Evidence from Togo](https://drive.google.com/file/d/148ZYYqffILOZ7Gtk_sbRpWFco6Qxj761/view)** \
-with Axel Eizmendi-Larrinaga, [Deivy Houeix](https://houeix.github.io) and [Toni Oki](https://economics.harvard.edu/people/oluwatoni-oki)
+with Axel Eizmendi-Larrinaga, [Deivy Houeix](https://houeix.github.io) and [Toni Oki](https://www.hks.harvard.edu/centers/cid/about-cid/people/phd-affiliates/toni-oki)
 
 *Abstract* : Most people in sub-Saharan Africa still lack access to electricity, despite rural electrification being a policy priority. We provide evidence that high transaction costs, particularly transportation expenses to access mobile money agents for bill payments, are
 a key friction for rural households. In rural Togo, these costs account for 28% of solar electricity-related expenditures, rising to 43% in more remote areas. To assess the impact of transaction costs on policy outcomes, we analyze the staggered rollout of 
