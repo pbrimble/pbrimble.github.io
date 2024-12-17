@@ -16,7 +16,7 @@ I was previously a research assistant in development economics at the the <a hre
 ---
 # Research in Progress
 
-**The Ramayan Effect: Mass Media, Identity, and the Rise of Hindu Nationalism in India** \
+**Ancient Epics in the Television Age: Mass Media, Identity, and the Rise of Hindu Nationalism in India** \
 with [Resuf Ahmed](https://resuf.github.io), [Akhila Kovvuri](https://kingcenter.stanford.edu/akhila-kovvuri), [Alessandro Saia](https://sites.google.com/site/asaia9585/alessandro-saia) and [Dean Yang](https://sites.lsa.umich.edu/deanyang)
 
 **Can Cash Transfers Facilitate Occupational Upgrading in Frictional Markets?** \
@@ -26,8 +26,8 @@ with [Rob Garlick](https://www.robgarlick.com) and [Kate Orkin](https://sites.go
 with Axel Eizmendi-Larrinaga, [Deivy Houeix](https://houeix.github.io) and [Toni Oki](https://www.hks.harvard.edu/centers/cid/about-cid/people/phd-affiliates/toni-oki)
 
 *Abstract* : Most people in sub-Saharan Africa still lack access to electricity, despite rural electrification being a policy priority. We provide evidence that high transaction costs, particularly transportation expenses to access mobile money agents for bill payments, are
-a key friction for rural households. In rural Togo, these costs account for 28% of solar electricity-related expenditures, rising to 43% in more remote areas. To assess the impact of transaction costs on policy outcomes, we analyze the staggered rollout of 
-two nationwide policies in Togo in 2019: a solar home system subsidy and an expansion of mobile money agents. The subsidy, which nearly halves electricity prices, more than doubles adoption rates. However, the effects vary significantly: households with lower transaction costs—those with direct access to mobile money agents—adopt at much higher rates and decrease the number of payments they make in response to the price reduction. The mobile money agent expansion led to nearly a threefold increase in adoption, an effect similar to that of the subsidy. By reducing transaction costs, these policies enable bulk purchases and lessen the need for frequent payments. Our findings highlight the complementary roles of subsidies and financial inclusion in improving rural electrification and access to essential services. 
+a key friction for rural households. In rural Togo, these costs account for 28% of solar electricity-related expenditures, rising to 43% in more remote areas. To assess the impact of transaction costs on policy outcomes, we analyze the staggered rollout of
+two nationwide policies in Togo in 2019: a solar home system subsidy and an expansion of mobile money agents. The subsidy, which nearly halves electricity prices, more than doubles adoption rates. However, the effects vary significantly: households with lower transaction costs—those with direct access to mobile money agents—adopt at much higher rates and decrease the number of payments they make in response to the price reduction. The mobile money agent expansion led to nearly a threefold increase in adoption, an effect similar to that of the subsidy. By reducing transaction costs, these policies enable bulk purchases and lessen the need for frequent payments. Our findings highlight the complementary roles of subsidies and financial inclusion in improving rural electrification and access to essential services.
 
 **Lighting Aspirations in Schools: The Impact of Lighting and Role Models on Educational Outcomes** \
 with Axel Eizmendi-Larrinaga
@@ -40,12 +40,14 @@ with [Guy Michaels](https://personal.lse.ac.uk/michaels), [Matthew Sharp](https:
 **VIIRS and the Future of Night Lights Data in Economics** \
 with [Adam Storeygard](https://sites.google.com/site/adamstoreygard), Axel Eizmendi-Larrinaga and [Kazuki Motohashi](https://kazukimotohashi.github.io)
 
-**Valuing Property and Buildings in Kigali and Secondary Cities for an Operational CAMA** \
-with [Patrick McSharry](http://www.mcsharry.net), Kaspar Kundert, Felix Bachofer and Andreas Braun
+
 
 <!---
 ---
 # Completed Research
+
+**Valuing Property and Buildings in Kigali and Secondary Cities for an Operational CAMA** \
+with [Patrick McSharry](http://www.mcsharry.net), Kaspar Kundert, Felix Bachofer and Andreas Braun
 
 [**Using Machine Learning and Remote Sensing to Value Property in Rwanda**](https://www.theigc.org/wp-content/uploads/2020/02/Brimble-et-al-2020-Working-Paper.pdf), *International Growth Centre Working Paper* \
 with [Patrick McSharry](http://www.mcsharry.net), Felix Bachofer, Andreas Braun and Jonathon Bower  
