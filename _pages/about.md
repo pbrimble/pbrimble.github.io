@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 permalink: /
 title: "Home"
 excerpt: "About me"
