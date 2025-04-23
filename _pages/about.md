@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 permalink: /
 title: "Home"
 excerpt: "About me"
