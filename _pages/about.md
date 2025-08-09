@@ -27,6 +27,9 @@ with [Axel Eizmendi-Larrinaga](https://sites.google.com/view/axeleizmendi/), [De
 **The Efficiency Gains from Cash Transfers: Experimental Evidence from Kenya** \
 with [Rob Garlick](https://www.robgarlick.com) and [Kate Orkin](https://sites.google.com/site/kateorkin/home)
 
+**Contagion in Financial Cooperatives: Evidence from Guarantor Networks in Kenya** \
+with [Kevin Carney](https://www.kevin-carney.com) and [Joshua Deutschmann](https://jwdeutschmann.com)
+
 **Lights, Camera, Study! Experimental Evidence on Lamps, Role Models and Social Networks in Togo** \
 with [Axel Eizmendi-Larrinaga](https://sites.google.com/view/axeleizmendi/)
 
