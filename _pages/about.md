@@ -14,7 +14,7 @@ I am currently a PhD student in the Department of Economics at the University of
 I was previously a research assistant in development economics at the the <a href="http://bsg.ox.ac.uk">Blavatnik School of Government</a>, University of Oxford where I worked at <a href="https://www.bsg.ox.ac.uk/research/research-programmes/digital-pathways">Digital Pathways at Oxford</a> and the <a href="http://mbrg.bsg.ox.ac.uk">Mind and Behaviour Research Group</a> (MBRG), <a href="http://csae.ox.ac.uk">Centre for the Study of African Economies</a> (CSAE). Prior to this, I was an economic advisor on the <a href="https://www.odi.org/odi-fellowship-scheme">ODI Fellowship Scheme</a> at the Rwandan <a href="http://www.minecofin.gov.rw">Ministry of Finance and Economic Planning</a> where I worked at the Macroeconomic Policy Unit in the Office of the Government Chief Economist between 2017 and 2019. I completed an MPhil in Economics at the University of Oxford in 2017 and a BA in Economics at the University of Cambridge in 2015.
 
 ---
-# Research in Progress
+# Working Papers
 
 **[Ancient Epics in the Television Age: Mass Media, Identity, and the Rise of Hindu Nationalism in India](https://www.nber.org/papers/w33417)** \
 with [Resuf Ahmed](https://resuf.github.io), [Akhila Kovvuri](https://kingcenter.stanford.edu/akhila-kovvuri), [Alessandro Saia](https://sites.google.com/site/asaia9585/alessandro-saia) and [Dean Yang](https://sites.lsa.umich.edu/deanyang)
@@ -32,6 +32,9 @@ with [Kevin Carney](https://www.kevin-carney.com) and [Joshua Deutschmann](https
 
 **Lights, Camera, Study! Experimental Evidence on Lamps, Role Models and Social Networks in Togo** \
 with [Axel Eizmendi-Larrinaga](https://sites.google.com/view/axeleizmendi/)
+
+---
+# Research in Progress
 
 **Zoning Laws and Land Value Capture: Evidence from Rwanda** \
 with [Guy Michaels](https://personal.lse.ac.uk/michaels), [Matthew Sharp](https://sites.google.com/view/matthewsharp) and [Tanner Regan](https://sites.google.com/site/tannerregan)
