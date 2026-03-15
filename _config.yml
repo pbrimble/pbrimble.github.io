@@ -13,7 +13,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Paul Brimble"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Paul Brimble"
 description              : &description "Economist"
