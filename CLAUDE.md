@@ -12,7 +12,7 @@
 | Resource | Path |
 |---|---|
 | GitHub repo | `/Users/pbrimble/Github/pbrimble/pbrimble.github.io/` |
-| Overleaf (CV) | `/Users/pbrimble/University of Michigan Dropbox/Paul Brimble/Apps/Overleaf/Paul Brimble/` |
+| Overleaf (CV) | `/Users/pbrimble/University of Michigan Dropbox/Paul Brimble/Apps/Overleaf/pbrimble/` |
 
 ## Site Structure
 
@@ -53,7 +53,7 @@ Site builds and deploys automatically via GitHub Pages on push to `main`.
 
 ## CV / LaTeX
 
-The Overleaf folder (`Paul Brimble`) is intended for a LaTeX-formatted CV. When ready, the compiled PDF should be exported to `files/cv.pdf` in this repo so it's linked from `_pages/cv.md`.
+The Overleaf folder (`pbrimble`) is intended for a LaTeX-formatted CV. When ready, the compiled PDF should be exported to `files/cv.pdf` in this repo so it's linked from `_pages/cv.md`.
 
 ## Current Status
 
