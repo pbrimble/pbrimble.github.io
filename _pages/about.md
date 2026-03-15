@@ -24,32 +24,32 @@ I was previously a research assistant in development economics at the the <a hre
 
 
 **[Ancient Epics in the Television Age: Religious Identity and the Rise of Hindu Nationalism in India](https://www.nber.org/papers/w33417)** \
-<small>(with [Resuf Ahmed](https://resuf.github.io), [Akhila Kovvuri](https://kingcenter.stanford.edu/akhila-kovvuri), [Alessandro Saia](https://sites.google.com/site/asaia9585/alessandro-saia) and [Dean Yang](https://sites.lsa.umich.edu/deanyang))</small>
+(with[Resuf Ahmed](https://resuf.github.io), [Akhila Kovvuri](https://kingcenter.stanford.edu/akhila-kovvuri), [Alessandro Saia](https://sites.google.com/site/asaia9585/alessandro-saia) and [Dean Yang](https://sites.lsa.umich.edu/deanyang))
 
 **[The Efficiency Gains from Cash Transfers: Experimental Evidence from Kenya](https://drive.google.com/file/d/1TpELlg99OMezoANNmSleBn_ras5OxY8u/view)** \
-<small>(with [Rob Garlick](https://www.robgarlick.com) and [Kate Orkin](https://sites.google.com/site/kateorkin/home))</small>
+(with[Rob Garlick](https://www.robgarlick.com) and [Kate Orkin](https://sites.google.com/site/kateorkin/home))
 
 **[Financial Inclusion and Rural Electrification: Evidence from Togo](https://drive.google.com/file/d/148ZYYqffILOZ7Gtk_sbRpWFco6Qxj761/view)** \
-<small>(with [Axel Eizmendi-Larrinaga](https://sites.google.com/view/axeleizmendi/), [Deivy Houeix](https://houeix.github.io) and [Toni Oki](https://www.hks.harvard.edu/centers/cid/about-cid/people/phd-affiliates/toni-oki))</small>
+(with[Axel Eizmendi-Larrinaga](https://sites.google.com/view/axeleizmendi/), [Deivy Houeix](https://houeix.github.io) and [Toni Oki](https://www.hks.harvard.edu/centers/cid/about-cid/people/phd-affiliates/toni-oki))
 
 [This is a comment]: # *Abstract* : Most people in sub-Saharan Africa still lack access to electricity, despite rural electrification being a policy priority. We provide evidence that high transaction costs, particularly transportation expenses to access mobile money agents for bill payments, are a key friction for rural households. In rural Togo, these costs account for 28% of solar electricity-related expenditures, rising to 43% in more remote areas. To assess the impact of transaction costs on policy outcomes, we analyze the staggered rollout of two nationwide policies in Togo in 2019: a solar home system subsidy and an expansion of mobile money agents. The subsidy, which nearly halves electricity prices, more than doubles adoption rates. However, the effects vary significantly: households with lower transaction costs—those with direct access to mobile money agents—adopt at much higher rates and decrease the number of payments they make in response to the price reduction. The mobile money agent expansion led to nearly a threefold increase in adoption, an effect similar to that of the subsidy. By reducing transaction costs, these policies enable bulk purchases and lessen the need for frequent payments. Our findings highlight the complementary roles of subsidies and financial inclusion in improving rural electrification and access to essential services.
 
 **[Shareable Technologies and Role Models in Education: Experimental Evidence on Social Network Spillovers in Togo](https://drive.google.com/file/d/1pHK_2zjm07Gcvb51gsomE4YrbjJQ9flH/view?usp=sharing)** \
-<small>(with [Axel Eizmendi-Larrinaga](https://sites.google.com/view/axeleizmendi/))</small>
+(with[Axel Eizmendi-Larrinaga](https://sites.google.com/view/axeleizmendi/))
 
 **Contagion in Financial Cooperatives: Evidence from Guarantor Networks in Kenya** \
-<small>(with [Kevin Carney](https://www.kevin-carney.com) and [Joshua Deutschmann](https://jwdeutschmann.com))</small>
+(with[Kevin Carney](https://www.kevin-carney.com) and [Joshua Deutschmann](https://jwdeutschmann.com))
 
 ---
 # Research in Progress
 
 **Zoning Laws and Land Value Capture: Evidence from Rwanda** \
-<small>(with [Guy Michaels](https://personal.lse.ac.uk/michaels), [Matthew Sharp](https://sites.google.com/view/matthewsharp) and [Tanner Regan](https://sites.google.com/site/tannerregan))</small>
+(with[Guy Michaels](https://personal.lse.ac.uk/michaels), [Matthew Sharp](https://sites.google.com/view/matthewsharp) and [Tanner Regan](https://sites.google.com/site/tannerregan))
 
 [This is a comment]: # *Abstract:* Rapid urbanisation in Africa and other developing regions increases demand for urban services, which local governments often struggle to provide. Land value capture and taxation through zoning presents an under-exploited opportunity to mitigate this problem. Rwanda, with its fast-growing cities, first adopted a comprehensive land use zoning law in 2013. Focusing on the urban fringe in Rwandan cities, we compare the value of (previously unbuilt) land zoned for residential use to nearby land zoned for agricultural use, allowing us to assess the potential for revenue generation from zoning.
 
 **VIIRS and the Future of Night Lights Data in Economics** \
-<small>(with [Adam Storeygard](https://sites.google.com/site/adamstoreygard), [Axel Eizmendi-Larrinaga](https://sites.google.com/view/axeleizmendi/) and [Kazuki Motohashi](https://kazukimotohashi.github.io))</small>
+(with[Adam Storeygard](https://sites.google.com/site/adamstoreygard), [Axel Eizmendi-Larrinaga](https://sites.google.com/view/axeleizmendi/) and [Kazuki Motohashi](https://kazukimotohashi.github.io))
 
 
 
