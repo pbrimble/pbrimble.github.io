@@ -32,10 +32,12 @@
 
 ## Key Pages
 
-- `_pages/about.md` — Homepage / bio
-- `_pages/research.md` — Research page (working papers, work in progress)
-- `_pages/publications.md` — Publications list
-- `_pages/cv.md` — CV page
+**Currently only the about page is functioning.** Other pages exist but are not actively maintained:
+
+- `_pages/about.md` — **ACTIVE** — Homepage / bio, working papers, research in progress
+- `_pages/research.md` — Inactive (research content consolidated to about page)
+- `_pages/publications.md` — Inactive
+- `_pages/cv.md` — Inactive
 
 ## Development
 

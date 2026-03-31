@@ -37,11 +37,11 @@ I was previously a research assistant in development economics at the the <a hre
 **[Shareable Technologies and Role Models in Education: Experimental Evidence on Social Network Spillovers in Togo](https://drive.google.com/file/d/1pHK_2zjm07Gcvb51gsomE4YrbjJQ9flH/view?usp=sharing)** \
 (with [Axel Eizmendi-Larrinaga](https://sites.google.com/view/axeleizmendi/))
 
-**Contagion in Financial Cooperatives: Evidence from Guarantor Networks in Kenya** \
-(with [Kevin Carney](https://www.kevin-carney.com) and [Joshua Deutschmann](https://jwdeutschmann.com))
-
 ---
 # Research in Progress
+
+**Guarantor Networks, Financial Contagion and Systemic Risk: Evidence from Kenya** \
+(with [Kevin Carney](https://www.kevin-carney.com) and [Joshua Deutschmann](https://jwdeutschmann.com))
 
 **Zoning Laws and Land Value Capture: Evidence from Rwanda** \
 (with [Guy Michaels](https://personal.lse.ac.uk/michaels), [Matthew Sharp](https://sites.google.com/view/matthewsharp) and [Tanner Regan](https://sites.google.com/site/tannerregan))
