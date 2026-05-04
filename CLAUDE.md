@@ -12,7 +12,7 @@
 | Resource | Path |
 |---|---|
 | GitHub repo | `/Users/pbrimble/Github/pbrimble/pbrimble.github.io/` |
-| Overleaf (CV) | `/Users/pbrimble/University of Michigan Dropbox/Paul Brimble/Apps/Overleaf/pbrimble/` |
+| Overleaf (CV) | `/Users/pbrimble/Library/CloudStorage/Dropbox-UniversityofMichigan/Paul Brimble/Apps/Overleaf/pbrimble/` |
 
 ## Site Structure
 
