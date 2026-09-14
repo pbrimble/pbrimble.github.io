@@ -29,19 +29,19 @@ I was previously a research assistant in development economics at the the <a hre
 **[How Capital Can Increase the Efficiency of Production](https://drive.google.com/file/d/1TpELlg99OMezoANNmSleBn_ras5OxY8u/view)** \
 (with [Rob Garlick](https://www.robgarlick.com) and [Kate Orkin](https://sites.google.com/site/kateorkin/home))
 
-**[Paying to Pay: Transaction Costs and Public Policy Effectiveness](https://drive.google.com/file/d/148ZYYqffILOZ7Gtk_sbRpWFco6Qxj761/view)** \
+**[Payment Infrastructure and Policy Effectiveness: Evidence from Public Programs in Togo](https://www.dropbox.com/scl/fi/izul5wcrcbmhlpcb9gfyp/togo_payment.pdf?rlkey=qvgdq9ojnbku7kxkzv9sku2ft&st=wcsckc86&raw=1)** \
 (with [Axel Eizmendi-Larrinaga](https://sites.google.com/view/axeleizmendi/), [Deivy Houeix](https://houeix.github.io) and [Toni Oki](https://www.hks.harvard.edu/centers/cid/about-cid/people/phd-affiliates/toni-oki))
 
 [This is a comment]: # *Abstract* : Most people in sub-Saharan Africa still lack access to electricity, despite rural electrification being a policy priority. We provide evidence that high transaction costs, particularly transportation expenses to access mobile money agents for bill payments, are a key friction for rural households. In rural Togo, these costs account for 28% of solar electricity-related expenditures, rising to 43% in more remote areas. To assess the impact of transaction costs on policy outcomes, we analyze the staggered rollout of two nationwide policies in Togo in 2019: a solar home system subsidy and an expansion of mobile money agents. The subsidy, which nearly halves electricity prices, more than doubles adoption rates. However, the effects vary significantly: households with lower transaction costs—those with direct access to mobile money agents—adopt at much higher rates and decrease the number of payments they make in response to the price reduction. The mobile money agent expansion led to nearly a threefold increase in adoption, an effect similar to that of the subsidy. By reducing transaction costs, these policies enable bulk purchases and lessen the need for frequent payments. Our findings highlight the complementary roles of subsidies and financial inclusion in improving rural electrification and access to essential services.
+
+**[Guarantor Networks, Financial Contagion and Systemic Risk: Evidence from Kenya](https://drive.google.com/file/d/1utIkgrPoCgvZxMk5RwQk13UxuYtrzhdT/view)** \
+(with [Kevin Carney](https://www.kevin-carney.com) and [Joshua Deutschmann](https://jwdeutschmann.com))
 
 **[Shareable Technologies and Role Models in Education: Experimental Evidence on Social Network Spillovers in Togo](https://drive.google.com/file/d/1pHK_2zjm07Gcvb51gsomE4YrbjJQ9flH/view?usp=sharing)** \
 (with [Axel Eizmendi-Larrinaga](https://sites.google.com/view/axeleizmendi/))
 
 ---
 # Research in Progress
-
-**Guarantor Networks, Financial Contagion and Systemic Risk** \
-(with [Kevin Carney](https://www.kevin-carney.com) and [Joshua Deutschmann](https://jwdeutschmann.com))
 
 **Broadcasting Agriculture: Information Diffusion and the Green Revolution** \
 (with [Joaquin Endara](https://jendara.com))
