@@ -102,8 +102,9 @@ body {
   text-transform: uppercase;
 }
 
-/* First label ("About Me") lines up with the top of the photo */
-.content > :first-child { margin-top: 0; }
+/* First label ("About Me") lines up with the top of the photo
+   (-2px offsets the space above the capital letters) */
+.content > :first-child { margin-top: -2px; }
 
 /* The markdown uses --- before each section; the headings carry the break */
 .content hr { display: none; }

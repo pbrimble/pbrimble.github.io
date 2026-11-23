@@ -18,7 +18,8 @@
   <meta property="og:description" content="{{ description | escape }}">
   <meta property="og:image" content="{{ site.url }}{{ page.photo }}">
   <link rel="icon" href="/images/favicon_umich.ico" sizes="16x16 32x32">
-  <link rel="stylesheet" href="/assets/css/home.css">
+  <!-- ?v= changes on every build so browsers never keep a stale copy of the CSS -->
+  <link rel="stylesheet" href="/assets/css/home.css?v={{ site.time | date: '%s' }}">
 </head>
 <body>
   <div class="wrapper">
