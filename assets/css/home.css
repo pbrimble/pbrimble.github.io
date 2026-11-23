@@ -102,6 +102,9 @@ body {
   text-transform: uppercase;
 }
 
+/* First label ("About Me") lines up with the top of the photo */
+.content > :first-child { margin-top: 0; }
+
 /* The markdown uses --- before each section; the headings carry the break */
 .content hr { display: none; }
 
@@ -147,9 +150,7 @@ a:hover { text-decoration: underline; }
 
   .content {
     max-width: none;
-    margin-top: 28px;
-    padding-top: 8px;
-    border-top: 1px solid var(--rule);
+    margin-top: 32px;   /* the "About Me" label and its rule separate the card from the text */
   }
 
   .content h1,

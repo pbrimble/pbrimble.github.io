@@ -14,6 +14,8 @@ redirect_from:
   - /about.html
 ---
 
+# About Me
+
 I am an economics PhD student at the University of Michigan. I work in development economics, studying how market frictions shape outcomes in low-income settings.
 
 I was born and raised in Thailand before finishing secondary school in Cambodia. After a BA at the University of Cambridge and an MPhil at the University of Oxford, I worked as an economic adviser to the Government of Rwanda.
