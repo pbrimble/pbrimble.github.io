@@ -16,9 +16,11 @@ redirect_from:
 
 # About Me
 
-I am an economics PhD student at the University of Michigan. I work in development economics, studying how market frictions shape outcomes in low-income settings.
+Welcome! I am an economics PhD student at the University of Michigan. I work in development economics, studying how market frictions shape outcomes in low-income settings.
 
-I was born and raised in Thailand before finishing secondary school in Cambodia. After a BA at the University of Cambridge and an MPhil at the University of Oxford, I worked as an economic adviser to the Government of Rwanda.
+I was born and raised in Thailand before finishing secondary school in Cambodia. After completing a BA at the University of Cambridge and an MPhil at the University of Oxford, I worked as an economic adviser to the Government of Rwanda.
+
+Please feel free to reach out to me at [pbrimble@umich.edu](mailto:pbrimble@umich.edu).
 
 <!---
 I was previously a research assistant in development economics at the the <a href="http://bsg.ox.ac.uk">Blavatnik School of Government</a>, University of Oxford where I worked at <a href="https://www.bsg.ox.ac.uk/research/research-programmes/digital-pathways">Digital Pathways at Oxford</a> and the <a href="http://mbrg.bsg.ox.ac.uk">Mind and Behaviour Research Group</a> (MBRG), <a href="http://csae.ox.ac.uk">Centre for the Study of African Economies</a> (CSAE). Prior to this, I was an economic advisor on the <a href="https://www.odi.org/odi-fellowship-scheme">ODI Fellowship Scheme</a> at the Rwandan <a href="http://www.minecofin.gov.rw">Ministry of Finance and Economic Planning</a> where I worked at the Macroeconomic Policy Unit in the Office of the Government Chief Economist between 2017 and 2019. I completed an MPhil in Economics at the University of Oxford in 2017 and a BA in Economics at the University of Cambridge in 2015.
