@@ -57,7 +57,7 @@ body {
 }
 
 .profile h1 {
-  margin: 22px 0 10px;
+  margin: 8px 0 10px;
   color: var(--accent);
   font-size: 28px;
   font-weight: 700;
@@ -68,7 +68,12 @@ body {
 .affiliation {
   margin: 0;
   color: var(--muted);
+  line-height: 1.35;   /* tighter than body text so the three lines read as one block */
 }
+
+/* [CV] link under the affiliation, a touch larger than the lines above */
+.cvlink { margin: 4px 0 0; }
+.cvlink .tag { font-size: 17px; }
 
 /* ---------- Right column: bio and papers ---------- */
 

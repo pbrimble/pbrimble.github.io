@@ -30,6 +30,9 @@
           {{ line }}{% unless forloop.last %}<br>{% endunless %}
         {%- endfor -%}
       </p>
+      {%- if page.cv %}
+      <p class="cvlink"><a class="tag" href="{{ page.cv }}">CV</a></p>
+      {%- endif %}
     </header>
 
     <main class="content">
