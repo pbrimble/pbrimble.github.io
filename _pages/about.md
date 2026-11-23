@@ -4,6 +4,7 @@ permalink: /
 title: ""
 excerpt: "About me"
 photo: /images/profile_web.jpg
+photo_caption: Kigali, Rwanda
 affiliation:
   - PhD Student
   - Department of Economics
@@ -16,7 +17,7 @@ redirect_from:
 
 # About Me
 
-Welcome! I am an economics PhD student at the University of Michigan. I work in development economics, studying how market frictions shape outcomes in low-income settings.
+Welcome! I am an economics PhD student at the University of Michigan. My research focuses on topics in development economics.
 
 I was born and raised in Thailand before finishing secondary school in Cambodia. After completing a BA at the University of Cambridge and an MPhil at the University of Oxford, I worked as an economic adviser to the Government of Rwanda.
 

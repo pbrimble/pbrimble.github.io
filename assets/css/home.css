@@ -11,7 +11,7 @@
   --accent: #00274c;       /* Michigan blue: name and section labels */
   --sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
   --paper-link: #1a8fe3;   /* bright blue: linked paper titles and [CV] */
-  --person-link: #1a4f8b;  /* dark blue: co-author links */
+  --person-link: #225ea8;  /* mid-dark blue: co-author links (darker than the titles, clearly bluer than the text) */
   --rule: #e5e5e5;
 }
 
@@ -47,6 +47,8 @@ body {
   text-align: center;
 }
 
+.photo-wrap { margin: 0; }
+
 .photo {
   display: block;
   width: 100%;
@@ -54,6 +56,17 @@ body {
   aspect-ratio: 4 / 5;
   object-fit: cover;
   border-radius: 3px;
+}
+
+/* Small italic caption under the photo, aligned to its right edge */
+.photo-wrap figcaption {
+  margin-top: 2px;
+  color: var(--muted);
+  font-size: 12px;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: right;
+  padding-right: 2px;   /* keeps the italic slant inside the photo's edge */
 }
 
 .profile h1 {
@@ -90,7 +103,7 @@ body {
 .content h1,
 .content h2,
 .content h3 {
-  margin: 44px 0 20px;
+  margin: 40px 0 15px;
   padding-bottom: 8px;
   border-bottom: 1px solid var(--rule);
   color: var(--accent);
@@ -126,9 +139,13 @@ a:hover { text-decoration: underline; }
 .tag::before { content: "["; margin-right: 1px; }
 .tag::after  { content: "]"; margin-left: 1px; }
 
+/* Co-author (and email) links: a hair heavier than body text. Helvetica Neue has no weight
+   between regular and medium, so a thin outline in the text colour thickens regular slightly. */
+.content a { -webkit-text-stroke: 0.3px currentColor; }
+
 /* Bold, linked paper titles: **[Title](url)** */
 .content strong a,
-.content a strong { color: var(--paper-link); }
+.content a strong { color: var(--paper-link); -webkit-text-stroke: 0; }
 
 /* ---------- Narrow screens: stack photo above the content ---------- */
 
@@ -144,7 +161,7 @@ a:hover { text-decoration: underline; }
     text-align: center;
   }
 
-  .photo {
+  .photo-wrap {
     width: min(280px, 75vw);
     margin: 0 auto;
   }

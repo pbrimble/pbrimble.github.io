@@ -24,7 +24,12 @@
 <body>
   <div class="wrapper">
     <header class="profile">
-      <img class="photo" src="{{ page.photo }}" alt="{{ site.author.name }}" width="260" height="325">
+      <figure class="photo-wrap">
+        <img class="photo" src="{{ page.photo }}" alt="{{ site.author.name }}" width="260" height="325">
+        {%- if page.photo_caption %}
+        <figcaption>{{ page.photo_caption }}</figcaption>
+        {%- endif %}
+      </figure>
       <h1>{{ site.author.name }}</h1>
       <p class="affiliation">
         {%- for line in page.affiliation -%}
