@@ -10,8 +10,8 @@
   --heading: #222;
   --accent: #00274c;       /* Michigan blue: name and section labels */
   --sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  --paper-link: #1a4f8b;   /* dark blue: linked paper titles */
-  --person-link: #267cb9;  /* lighter blue: co-authors and other links */
+  --paper-link: #1a8fe3;   /* bright blue: linked paper titles and [CV] */
+  --person-link: #1a4f8b;  /* dark blue: co-author links */
   --rule: #e5e5e5;
 }
 
@@ -80,7 +80,8 @@ body {
 
 .content p { margin: 0 0 20px; }
 
-/* Section headings ("Working Papers", "Work in Progress"): small caps label + hairline */
+/* Section headings ("Working Papers", "Work in Progress"): uppercase navy label + hairline,
+   same navy as the name and same size as the body text */
 .content h1,
 .content h2,
 .content h3 {
@@ -89,10 +90,10 @@ body {
   border-bottom: 1px solid var(--rule);
   color: var(--accent);
   font-family: var(--sans);
-  font-size: 13.5px;
+  font-size: 15px;
   font-weight: 700;
   line-height: 1.2;
-  letter-spacing: 0.12em;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
 }
 
@@ -112,7 +113,7 @@ a {
 a:hover { text-decoration: underline; }
 
 /* Bracketed link tags, e.g. [CV](url){: .tag} renders as [CV] */
-.tag { white-space: nowrap; }
+.tag { white-space: nowrap; color: var(--paper-link); font-weight: 700; }   /* styled like the paper titles */
 .tag::before { content: "["; margin-right: 1px; }
 .tag::after  { content: "]"; margin-left: 1px; }
 
