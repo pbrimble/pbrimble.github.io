@@ -13,6 +13,8 @@ cv: /files/cv.pdf
 redirect_from:
   - /about/
   - /about.html
+  - /research/
+  - /publications/
 ---
 
 # About Me

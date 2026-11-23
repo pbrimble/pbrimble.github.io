@@ -152,6 +152,51 @@ exclude:
   - package.json
   - tmp
   - vendor
+  # Retired: the site is now just the homepage (_pages/about.md) plus files/ and images/.
+  # These are kept in the repo but no longer published. Unknown addresses go to the
+  # homepage via _pages/404.html.
+  - CLAUDE.md
+  - _posts
+  - archive
+  - markdown_generator
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
+  # files/: only cv.pdf is published
+  - files/paper1.pdf
+  - files/paper2.pdf
+  - files/paper3.pdf
+  - files/brimble yang 2023 media politics conflict.pdf
+  - files/rwanda_apg_2018_02.pdf
+  - files/cv_2022-09.pdf
+  - files/paul-brimble_cv_2022-08.pdf
+  - files/cv_paul-brimble_2021-01.pdf
+  - files/cv_paul-brimble_2021-11.pdf
+  - files/cv_paul-brimble_2023-05.pdf
+  - files/cv_paul-brimble_2024-10.pdf
+  - files/cv_paul-brimble_2025-03.pdf
+  - files/cv_paul-brimble_2026-03_A.pdf
+  - files/cv_paul-brimble_2026-03_B.pdf
+  - files/cv_paul-brimble_2026-05.pdf
+  - files/cv_paul-brimble_2026-09.pdf
+  - files/cv_paul-brimble_2026-11.pdf
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/cv.md
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/portfolio.html
+  - _pages/publications.md
+  - _pages/research.md
+  - _pages/sitemap.md
+  - _pages/tag-archive.html
+  - _pages/talkmap.html
+  - _pages/talks.html
+  - _pages/teaching.html
+  - _pages/terms.md
+  - _pages/year-archive.html
 #  - assets
 keep_files:
   - .git
@@ -180,19 +225,19 @@ kramdown:
   enable_coderay: false
 
 
-# Collections
+# Collections (retired: output: false keeps the entries in the repo but stops publishing them)
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
