@@ -141,7 +141,7 @@ a:hover { text-decoration: underline; }
 
 /* Co-author (and email) links: a hair heavier than body text. Helvetica Neue has no weight
    between regular and medium, so a thin outline in the text colour thickens regular slightly. */
-.content a { -webkit-text-stroke: 0.3px currentColor; }
+.content a { -webkit-text-stroke: 0.25px currentColor; }
 
 /* Bold, linked paper titles: **[Title](url)** */
 .content strong a,
