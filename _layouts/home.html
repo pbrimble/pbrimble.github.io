@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<!--
+  Minimal two-column homepage layout (used by _pages/about.md).
+  Left: photo, name and affiliation. Right: page content (bio, papers).
+  Styles live in /assets/css/home.css. Other pages still use the
+  academicpages theme layouts (single.html etc.).
+-->
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% assign description = page.description | default: site.author.bio %}
+  <title>{{ site.author.name }}</title>
+  <meta name="description" content="{{ description | escape }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ site.url }}/">
+  <meta property="og:title" content="{{ site.author.name }}">
+  <meta property="og:description" content="{{ description | escape }}">
+  <meta property="og:image" content="{{ site.url }}{{ page.photo }}">
+  <link rel="icon" href="/images/favicon_umich.ico" sizes="16x16 32x32">
+  <link rel="stylesheet" href="/assets/css/home.css">
+</head>
+<body>
+  <div class="wrapper">
+    <header class="profile">
+      <img class="photo" src="{{ page.photo }}" alt="{{ site.author.name }}" width="260" height="325">
+      <h1>{{ site.author.name }}</h1>
+      <p class="affiliation">
+        {%- for line in page.affiliation -%}
+          {{ line }}{% unless forloop.last %}<br>{% endunless %}
+        {%- endfor -%}
+      </p>
+    </header>
+
+    <main class="content">
+      {{ content }}
+    </main>
+  </div>
+</body>
+</html>

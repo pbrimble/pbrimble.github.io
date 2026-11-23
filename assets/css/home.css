@@ -1,0 +1,157 @@
+/* ==========================================================
+   Homepage styles (used by _layouts/home.html)
+   Two columns on desktop: photo + name on the left (sticky),
+   bio and papers on the right. Stacks on narrow screens.
+   ========================================================== */
+
+:root {
+  --text: #333;
+  --muted: #5a5a5a;
+  --heading: #222;
+  --accent: #00274c;       /* Michigan blue: name and section labels */
+  --sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --paper-link: #1a4f8b;   /* dark blue: linked paper titles */
+  --person-link: #267cb9;  /* lighter blue: co-authors and other links */
+  --rule: #e5e5e5;
+}
+
+*,
+*::before,
+*::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  padding: 56px 40px;
+  background: #fff;
+  color: var(--text);
+  font: 15px/1.55 var(--sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+.wrapper {
+  display: flex;
+  align-items: flex-start;
+  gap: 64px;
+  max-width: 924px;   /* 260px photo column + 64px gap + 600px text */
+  margin: 0 auto;
+}
+
+/* ---------- Left column: photo, name, affiliation ---------- */
+
+.profile {
+  flex: 0 0 260px;
+  position: sticky;
+  top: 56px;
+  text-align: center;
+}
+
+.photo {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  border-radius: 3px;
+}
+
+.profile h1 {
+  margin: 22px 0 10px;
+  color: var(--accent);
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: -0.01em;
+}
+
+.affiliation {
+  margin: 0;
+  color: var(--muted);
+}
+
+/* ---------- Right column: bio and papers ---------- */
+
+.content {
+  flex: 1 1 auto;
+  min-width: 0;
+  max-width: 600px;
+}
+
+.content p { margin: 0 0 20px; }
+
+/* Section headings ("Working Papers", "Work in Progress"): small caps label + hairline */
+.content h1,
+.content h2,
+.content h3 {
+  margin: 44px 0 20px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--rule);
+  color: var(--accent);
+  font-family: var(--sans);
+  font-size: 13.5px;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+/* The markdown uses --- before each section; the headings carry the break */
+.content hr { display: none; }
+
+.content strong {
+  color: var(--heading);
+  font-weight: 700;
+}
+
+a {
+  color: var(--person-link);
+  text-decoration: none;
+}
+
+a:hover { text-decoration: underline; }
+
+/* Bracketed link tags, e.g. [CV](url){: .tag} renders as [CV] */
+.tag { white-space: nowrap; }
+.tag::before { content: "["; margin-right: 1px; }
+.tag::after  { content: "]"; margin-left: 1px; }
+
+/* Bold, linked paper titles: **[Title](url)** */
+.content strong a,
+.content a strong { color: var(--paper-link); }
+
+/* ---------- Narrow screens: stack photo above the content ---------- */
+
+@media (max-width: 760px) {
+  body { padding: 32px 20px; }
+
+  .wrapper {
+    display: block;
+  }
+
+  .profile {
+    position: static;
+    text-align: center;
+  }
+
+  .photo {
+    width: min(280px, 75vw);
+    margin: 0 auto;
+  }
+
+  .content {
+    max-width: none;
+    margin-top: 28px;
+    padding-top: 8px;
+    border-top: 1px solid var(--rule);
+  }
+
+  .content h1,
+  .content h2,
+  .content h3 { margin-top: 32px; }
+}
+
+@media print {
+  body { padding: 0.4in; font-size: 11pt; color: #222; }
+  .profile { position: static; }
+}

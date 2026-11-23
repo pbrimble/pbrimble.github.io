@@ -1,19 +1,21 @@
 ---
-layout: single
+layout: home
 permalink: /
 title: ""
 excerpt: "About me"
-author_profile: true
+photo: /images/profile_web.jpg
+affiliation:
+  - PhD Student
+  - Department of Economics
+  - University of Michigan
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am currently a PhD student in the Department of Economics at the University of Michigan. 
+I am an economics PhD student at the University of Michigan. I work in development economics, studying how market frictions shape outcomes in low-income settings. [CV](https://pbrimble.github.io/files/cv.pdf){: .tag}
 
-My CV can be found <a href="https://pbrimble.github.io/files/cv.pdf">here</a>.
-
-I was previously a research assistant in development economics at the University of Oxford. I was also an economic advisor on the ODI Fellowship Scheme at the Rwandan Ministry of Finance and Economic Planning between 2017 and 2019. I completed an MPhil in Economics at the University of Oxford in 2017 and a BA in Economics at the University of Cambridge in 2015.
+I was born and raised in Thailand before finishing secondary school in Cambodia. After a BA at the University of Cambridge and an MPhil at the University of Oxford, I worked as an economic adviser to the Government of Rwanda.
 
 <!---
 I was previously a research assistant in development economics at the the <a href="http://bsg.ox.ac.uk">Blavatnik School of Government</a>, University of Oxford where I worked at <a href="https://www.bsg.ox.ac.uk/research/research-programmes/digital-pathways">Digital Pathways at Oxford</a> and the <a href="http://mbrg.bsg.ox.ac.uk">Mind and Behaviour Research Group</a> (MBRG), <a href="http://csae.ox.ac.uk">Centre for the Study of African Economies</a> (CSAE). Prior to this, I was an economic advisor on the <a href="https://www.odi.org/odi-fellowship-scheme">ODI Fellowship Scheme</a> at the Rwandan <a href="http://www.minecofin.gov.rw">Ministry of Finance and Economic Planning</a> where I worked at the Macroeconomic Policy Unit in the Office of the Government Chief Economist between 2017 and 2019. I completed an MPhil in Economics at the University of Oxford in 2017 and a BA in Economics at the University of Cambridge in 2015.
@@ -41,7 +43,7 @@ I was previously a research assistant in development economics at the the <a hre
 (with [Axel Eizmendi-Larrinaga](https://sites.google.com/view/axeleizmendi/))
 
 ---
-# Research in Progress
+# Work in Progress
 
 **Broadcasting Agriculture: Information Diffusion and the Green Revolution** \
 (with [Joaquin Endara](https://jendara.com))
